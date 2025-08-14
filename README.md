@@ -24,7 +24,7 @@ A responsive, professional Tic-Tac-Toe game built using HTML, CSS, and JavaScrip
 * Event Handling
 
 **📸 Preview**
-screenshot.png
+Screenshot.png
 
 **🚀 How to Use**
 1. Clone the repo or download ZIP
