@@ -29,7 +29,7 @@ screenshot.png
 **🚀 How to Use**
 1. Clone the repo or download ZIP
 ```
- https://github.com/VishakhaGehlot/Tic-Tac-Toe-Web-Game
+https://github.com/VishakhaGehlot/Tic-Tac-Toe-Web-Game
 ```
 2. Open `index.html` in your browser
 3. Choose game mode (Human vs Human or vs Computer)
